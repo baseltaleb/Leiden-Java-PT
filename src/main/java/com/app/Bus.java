@@ -1,4 +1,4 @@
-package com.training.first;
+package com.app;
 
 public class Bus {
 	private Line line;

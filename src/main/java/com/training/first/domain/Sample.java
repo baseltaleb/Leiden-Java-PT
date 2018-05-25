@@ -13,7 +13,7 @@ public class Sample {
 	private long id;
 
 	private String tag;
-	@Transient
+
 	private String something;
 	
 	public long getId() {
